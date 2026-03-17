@@ -337,7 +337,4 @@ def Availability():
     Av29=str(Tot29-C29)
     messagebox.showinfo("Status","Available Parking Slots\n\nBLOCK 29 ---- "+Av29+"\n\nBLOCK 34 ----  "+Av34)
     
-    
-    
 Base_Page()
-
